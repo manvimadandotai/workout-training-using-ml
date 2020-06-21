@@ -4,4 +4,4 @@ This repository contains the implementation of the research paper tVelloso, E., 
 # Results
 * Variable importance of factors that determine the quality of the movement while working out
 
-![Variable Importance chart from random forest classification algorithm]()
+![Variable Importance chart from random forest classification algorithm](https://github.com/manvimadan12/workout-training-using-ml/blob/master/Rplot01.png)
