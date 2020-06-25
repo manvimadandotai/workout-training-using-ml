@@ -4,6 +4,9 @@ This repository contains the implementation of the research paper, "Qualitative 
 # Dataset
 * The dataset was collected by the authors as described in the paper[1].
 
+# Requirements
+[Python](https://www.python.org/downloads/)
+
 
 
 
