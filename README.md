@@ -8,6 +8,10 @@ This repository contains the implementation of the research paper, "Qualitative 
 [Python](https://www.python.org/downloads/)
 
 
+### Install the required libraries through command line
+
+`pip3 intsall -r requirements.txt`
+
 
 
 # Results
