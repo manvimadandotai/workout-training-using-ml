@@ -13,6 +13,10 @@ This repository contains the implementation of the research paper, "Qualitative 
 `pip3 intsall -r requirements.txt`
 
 
+# Installation
+Clone this repository:
+git clone https://github.com/manvimadan12/What-should-we-pay-her-.git
+or click Download ZIP in right panel of repository and extract the code
 
 # Results
 * Variable importance of factors that determine the quality of the movement while working out
